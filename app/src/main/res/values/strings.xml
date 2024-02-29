@@ -35,7 +35,12 @@
 
 
 
-    <string name="about">About:</string>
-    <string name="program">%d program og utførelse</string>
+    <string name="and">og:</string>
+    <string name="Set_1">Sett 1 Utført</string>
+    <string name="Set_2">Sett 2 Utført</string>
+    <string name="Set_3">Sett 3 Utført</string>
+    <string name="Set_4">Sett 4 Utført</string>
+
+
     <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
