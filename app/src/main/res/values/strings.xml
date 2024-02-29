@@ -1,5 +1,17 @@
 <resources>
+
     <string name="app_name">FitFlex</string>
+    <string name="app_topbar">FitFlex</string>
+    <string name="button_strength">Styrke</string>
+    <string name="button_endurance">Utholdenhet</string>
+    <string name="videolink_strength">Video</string>
+    <string name="videolink_endurance">Video</string>
+
+    <string name="summary_1">Totalt antall øvelser og sett:</string>
+    <string name="summary_2">Antall komplette øvelser:</string>
+    <string name="summary_3">Antall komplette sett (for alle øvelser):</string>
+    <string name="summary_4">og</string>
+
     <string name="strength_name_1">Benkpress</string>
     <string name="strength_name_2">Skulderpress</string>
     <string name="strength_name_3">Knebøy</string>
@@ -10,7 +22,7 @@
     <string name="endurance_name_3">Intervall</string>
     <string name="endurance_name_4">Fjelltur</string>
     
-    <string name="menu_name">Min Trening</string>
+
     <string name="strength_description_1">Maks 8 repetisjoner på 3 sett</string>
     <string name="strength_description_2">8 repetisjsoner på medium intensitet</string>
     <string name="strength_description_3">10 repetisjoner på medium intensitet</string>
@@ -22,7 +34,8 @@
     <string name="endurance_description_4">2 timers fjelltur med 5-10 kg sekk</string>
 
 
+
     <string name="about">About:</string>
-    <string name="years_old">%d years old</string>
+    <string name="program">%d program og utførelse</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
